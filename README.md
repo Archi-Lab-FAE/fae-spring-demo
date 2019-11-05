@@ -6,3 +6,4 @@ This project was created with [Spring Initializr](https://start.spring.io/) incl
 * [Spring Web](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#using-boot-starter)
 * [Spring Data JPA](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference)
 * [H2 Database](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-embedded-database-support)
+* [PostgreSQL Driver](https://www.postgresql.org/)
