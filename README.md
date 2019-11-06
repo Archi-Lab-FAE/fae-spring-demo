@@ -71,3 +71,13 @@ Response example:
   }
 ]
 ```
+
+## Item REST controller test
+
+Includes a unit test for the item GET request of the item controller.
+
+Run tests:
+
+```bash
+mvn clean test
+```
